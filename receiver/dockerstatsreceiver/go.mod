@@ -7,10 +7,10 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/containertest v0.58.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/docker v0.58.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/scrapertest v0.58.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.58.0
 	go.opentelemetry.io/collector/pdata v0.58.0
-	go.opentelemetry.io/collector/semconv v0.58.0
+	go.opentelemetry.io/collector/semconv v0.63.1
 	go.uber.org/multierr v1.8.0
 	go.uber.org/zap v1.22.0
 )
