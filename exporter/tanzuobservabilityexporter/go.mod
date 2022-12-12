@@ -13,7 +13,7 @@ require (
 	go.opentelemetry.io/collector/semconv v0.58.0
 	go.uber.org/atomic v1.10.0
 	go.uber.org/multierr v1.8.0
-	go.uber.org/zap v1.22.0
+	go.uber.org/zap v1.24.0
 )
 
 require (
